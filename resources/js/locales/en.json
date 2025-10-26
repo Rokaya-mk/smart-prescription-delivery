@@ -1,0 +1,10 @@
+{
+    "find_doctors": "Find Doctors",
+    "doctors": "Doctors",
+    "photo": "Photo",
+    "name": "Name",
+    "expertise": "Expertise",
+    "booking": "Booking",
+    "book_appointment": "Book Appointment",
+    "no_doctor_available": "No doctors available for"
+  }

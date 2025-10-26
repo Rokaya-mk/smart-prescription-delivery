@@ -1,0 +1,10 @@
+{
+    "find_doctors": "ابحث عن أطباء",
+    "doctors": "الأطباء",
+    "photo": "صورة",
+    "name": "الاسم",
+    "expertise": "التخصص",
+    "booking": "الحجز",
+    "book_appointment": "حجز موعد",
+    "no_doctor_available": "لا يوجد أطباء متاحين لـ"
+  }
