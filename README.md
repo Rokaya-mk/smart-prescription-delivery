@@ -10,25 +10,25 @@ Doctors can send prescriptions directly to pharmacies, medications are prepared 
 
 ### 🩺 Home page
 patients can create account and book appointment with a doctor.
-![Doctor Dashboard](assets/images/home.png)
+![Doctor Dashboard](public/assets/images/home.png)
 ### 🩺 Doctor Dashboard
 
 Doctors can create and send prescriptions instantly.
-![Doctor Dashboard](assets/images/dashboard.png)
+![Doctor Dashboard](public/assets/images/dashboard.png)
 
 ### 🩺 Doctor Create prescription
 Doctors can Create prescription and send it to pharmacy.
-![Doctor Dashboard](assets/images/create_pr.png)
+![Doctor Dashboard](public/assets/images/create_pr.png)
 
 
 ### 🏥 Pharmacy Delivery Boxes Management
 Pharmacies can manage boxes where prescriptions will be delivred
-![Pharmacy Dashboard](assets/images/box.png)
+![Pharmacy Dashboard](public/assets/images/box.png)
 
 
 ### 👩‍⚕️ Patient Booking
 Patient can book an appointment with doctor.
-![Patient Notification](assets/images/book.png)
+![Patient Notification](public/assets/images/book.png)
 
 
 ## 🚀 Features
